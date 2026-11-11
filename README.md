@@ -23,8 +23,6 @@ A hotel search and reservation management project.
 "Postpartum Depression Detection" (https://github.com/mjmujeeb/Postpartum-Depression-Detection-Using-Machine-Learning-and-Deep-Learning-main)
 A machine learning and deep learning project focused on postpartum depression detection.
 
-"AWS Serverless Airline Booking" (https://github.com/mjmujeeb/AWS-Serverless-Airline-Booking)
-A project exploring serverless architecture for an airline booking application.
 
 Technologies
 
